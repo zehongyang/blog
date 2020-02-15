@@ -1,0 +1,97 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "mKall8xfKBPL/a5Ji//i968rLsY=",
+			"path": "github.com/gin-contrib/sse",
+			"revision": "43f0f29dbd2b3f0feeebff91fd9cda22db296938",
+			"revisionTime": "2019-09-05T05:13:34Z"
+		},
+		{
+			"checksumSHA1": "jjlgPHOH4rUQstj8idUK0xzs39Y=",
+			"path": "github.com/gin-gonic/gin",
+			"revision": "acac7b12102c837752340033624720d245ab2734",
+			"revisionTime": "2020-02-09T02:46:22Z"
+		},
+		{
+			"checksumSHA1": "KDq0NvVT/8asRBfhL/R/0fyYd48=",
+			"path": "github.com/gin-gonic/gin/binding",
+			"revision": "acac7b12102c837752340033624720d245ab2734",
+			"revisionTime": "2020-02-09T02:46:22Z"
+		},
+		{
+			"checksumSHA1": "qg53v7Qn4pAir0LvAjflsAkDb9Y=",
+			"path": "github.com/gin-gonic/gin/internal/bytesconv",
+			"revision": "acac7b12102c837752340033624720d245ab2734",
+			"revisionTime": "2020-02-09T02:46:22Z"
+		},
+		{
+			"checksumSHA1": "GAHho8qMLbDfGoD4w7SX7ZRT56U=",
+			"path": "github.com/gin-gonic/gin/internal/json",
+			"revision": "acac7b12102c837752340033624720d245ab2734",
+			"revisionTime": "2020-02-09T02:46:22Z"
+		},
+		{
+			"checksumSHA1": "H7PTtttgAE6QN4VqzeBxEaAvzhc=",
+			"path": "github.com/gin-gonic/gin/render",
+			"revision": "acac7b12102c837752340033624720d245ab2734",
+			"revisionTime": "2020-02-09T02:46:22Z"
+		},
+		{
+			"checksumSHA1": "tjyAt4lWX02bYpn2Dobq9MJb8+A=",
+			"path": "github.com/go-sql-driver/mysql",
+			"revision": "c4f1976e433a0e5f4a0d612ee45c85f689076ae7",
+			"revisionTime": "2020-02-09T14:41:49Z"
+		},
+		{
+			"checksumSHA1": "cMMG97ehMrVNuNbf7x5pGhuZMOI=",
+			"path": "github.com/golang/protobuf/proto",
+			"revision": "d23c5127dc24889085f8ccea5c9d560a57a879d8",
+			"revisionTime": "2020-01-28T18:10:23Z"
+		},
+		{
+			"checksumSHA1": "+qzEz1lMejGn3fFsRuGeRtsLu+4=",
+			"path": "github.com/jinzhu/gorm",
+			"revision": "7180bd0f27d167f18c253c32d548c7de3adc6b0d",
+			"revisionTime": "2020-01-26T15:28:32Z"
+		},
+		{
+			"checksumSHA1": "w5/naAzcG0+g6aYx63/of1Wbgqw=",
+			"path": "github.com/jinzhu/gorm/dialects/mysql",
+			"revision": "7180bd0f27d167f18c253c32d548c7de3adc6b0d",
+			"revisionTime": "2020-01-26T15:28:32Z"
+		},
+		{
+			"checksumSHA1": "Hf2EdZUOQfrn+iW34gg2/0GHo94=",
+			"path": "github.com/jinzhu/inflection",
+			"revision": "f5c5f50e6090ae76a29240b61ae2a90dd810112e",
+			"revisionTime": "2019-06-03T04:28:36Z"
+		},
+		{
+			"checksumSHA1": "Tet0S+rvMIUeDsIIRHmtOwJfo4A=",
+			"path": "github.com/mattn/go-isatty",
+			"revision": "cb30d6282491c185f77d9bec5d25de1bb61a06bc",
+			"revisionTime": "2020-01-28T10:39:42Z"
+		},
+		{
+			"checksumSHA1": "N/xvYptCDcWcmolqAWW92uCGusI=",
+			"path": "github.com/ugorji/go/codec",
+			"revision": "42bc974514ff101a54c6b72a0e4dee29d96c0b26",
+			"revisionTime": "2019-08-12T10:43:08Z"
+		},
+		{
+			"checksumSHA1": "+5Tsz6HfT6+i/LAByf6GtsNJQJE=",
+			"path": "gopkg.in/ini.v1",
+			"revision": "32cf4f7e9c77f151e18b53067b55549b4d1d411d",
+			"revisionTime": "2020-01-31T12:28:19Z"
+		},
+		{
+			"checksumSHA1": "YPOqTCFMxByLZFc6YLE37JnFhxQ=",
+			"path": "gopkg.in/yaml.v2",
+			"revision": "53403b58ad1b561927d19068c655246f2db79d48",
+			"revisionTime": "2020-01-21T17:19:40Z"
+		}
+	],
+	"rootPath": "blog"
+}
